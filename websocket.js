@@ -2,10 +2,6 @@
 
     $.extend(__WS, {
 
-        init: function(){
-
-        },
-
         onOpen: function () {
             console.log("Connect success!");
         },
